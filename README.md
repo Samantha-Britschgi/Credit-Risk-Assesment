@@ -25,8 +25,10 @@ The Rapid Miner [process](https://github.com/Samantha-Britschgi/Credit-Risk-Asse
     7. Determined classification performance 
     8. Additional sheet in data file with null credit risk had the model applied
 
-*Overall Rapid Miner Process"
+### Overall Rapid Miner Process
+
 <img src="https://github.com/Samantha-Britschgi/Credit-Risk-Assesment/blob/959dc899f219c86c08f52b99bf0a069afc6818e1/Credit-Risk-Assesment-RapidMiner-Images/Model%20Process.png" width="500" height="200" />
+
 <img src="https://github.com/Samantha-Britschgi/Credit-Risk-Assesment/blob/959dc899f219c86c08f52b99bf0a069afc6818e1/Credit-Risk-Assesment-RapidMiner-Images/ModelApplication.png" width="1400" height="200" />
 
     
