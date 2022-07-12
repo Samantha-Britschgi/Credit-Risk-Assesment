@@ -1,4 +1,7 @@
-# Credit-Risk-Assesment
+# Credit-Risk-Assesment-Part-2
+An updated version of the Credit Risk Assesment Project adding in two custom variables, [refined dashboard](https://public.tableau.com/app/profile/samantha.britschgi6603/viz/CreditRiskData-ClassificationDashboardStory/Story1?publish=yes), applying the model to null customer data, and more in depth insights.
+
+# Credit-Risk-Assesment-Part-1
 A one day project to classify credit risk and visualize findings in a single dashboard for "Decision Making with Business Intelligence and Analytics" as part of the MS Data Analytics program at Seattle Pacific University.  
 
 ### Background
