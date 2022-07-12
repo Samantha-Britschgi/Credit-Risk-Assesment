@@ -1,7 +1,20 @@
-# Credit-Risk-Assesment-Part-2
-An updated version of the Credit Risk Assesment Project adding in two custom variables, [refined dashboard](https://public.tableau.com/app/profile/samantha.britschgi6603/viz/CreditRiskData-ClassificationDashboardStory/Story1?publish=yes), applying the model to null customer data, and more in depth insights.
+# Credit Risk Assesment Part 2
+An updated version of the [Credit Risk Assesment Project](#credit-risk-assesment-part-1)
 
-# Credit-Risk-Assesment-Part-1
+### Process Update
+Two new custom variables were added to [model](https://github.com/Samantha-Britschgi/Credit-Risk-Assesment/blob/4f9ae7cd64ca2ae27202e6128832084f5e43cfd1/CreditRiskAssesmnetPart2/CreditRiskAssesmentPart2.rmp) called Total Money (sum of Checking and Savings) and Monthly Income (Total Money Divided by Months Employed).
+
+<img src="https://github.com/Samantha-Britschgi/Credit-Risk-Assesment/blob/4f9ae7cd64ca2ae27202e6128832084f5e43cfd1/CreditRiskAssesmnetPart2/ModelSteps-Pt2.png" width="800" height="400" />
+
+### Tableau Story Update
+The [tableau story](https://public.tableau.com/app/profile/samantha.britschgi6603/viz/CreditRiskData-ClassificationDashboardStory/Story1?publish=yes) was updated to reflect these updates as well as to show the predicted credit risk for null credit risk data.
+
+### Findings & Insights Update
+Findings were updated to reflect insights about the project as well as refined insights about the model.
+
+<img src="https://github.com/Samantha-Britschgi/Credit-Risk-Assesment/blob/4f9ae7cd64ca2ae27202e6128832084f5e43cfd1/CreditRiskAssesmnetPart2/RefinedInsights.png" width="800" height="400" />
+
+# Credit Risk Assesment Part 1
 A one day project to classify credit risk and visualize findings in a single dashboard for "Decision Making with Business Intelligence and Analytics" as part of the MS Data Analytics program at Seattle Pacific University.  
 
 ### Background
@@ -13,7 +26,7 @@ An additional ID column was added to the trraining data for ease of use in Rapid
 - Analyze whom is at higher or lower risk of repaying debt. 
 - Determine where credit risk classification model can be improved.
 
-### instructions
+### Instructions
 
 The Rapid Miner [process](https://github.com/Samantha-Britschgi/Credit-Risk-Assesment/blob/6277e8a533ec386605f2f522e111d75cca3db005/CreditRiskModel.rmp) can be imported into Rapid Miner for ease of use.
  
